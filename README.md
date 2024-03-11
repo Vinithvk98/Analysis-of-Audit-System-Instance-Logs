@@ -8,3 +8,5 @@ It underlines the necessity of data-driven decision-making and provides insights
 - DATASET LINK : [Link to CSV Data](https://www.kaggle.com/datasets/shamiulislamshifat/it-incident-log-dataset)
 
 ## Visuals of PowerBI Dashboard
+
+<img src="path/to/your/image.jpg" alt="Description of the image">
