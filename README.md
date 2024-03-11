@@ -9,4 +9,7 @@ It underlines the necessity of data-driven decision-making and provides insights
 
 ## Visuals of PowerBI Dashboard
 
-<img src="https://github.com/Vinithvk98/Analysis-of-Audit-System-Instance-Logs/blob/main/Dashboard_Images/Img_1.jpeg" alt="Description of the image">
+<img src="https://github.com/Vinithvk98/Analysis-of-Audit-System-Instance-Logs/blob/main/Dashboard_Images/Img_1.jpeg" alt="First Page">
+<img src="https://github.com/Vinithvk98/Analysis-of-Audit-System-Instance-Logs/blob/main/Dashboard_Images/Img_2.jpeg" alt="Second Page">
+<img src="https://github.com/Vinithvk98/Analysis-of-Audit-System-Instance-Logs/blob/main/Dashboard_Images/Img_3.jpeg" alt="Third Page">
+<img src="https://github.com/Vinithvk98/Analysis-of-Audit-System-Instance-Logs/blob/main/Dashboard_Images/Img_4.jpeg" alt="Fourth Page">
