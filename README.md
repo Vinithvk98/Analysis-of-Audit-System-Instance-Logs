@@ -9,4 +9,4 @@ It underlines the necessity of data-driven decision-making and provides insights
 
 ## Visuals of PowerBI Dashboard
 
-<img src="path/to/your/image.jpg" alt="Description of the image">
+<img src="https://github.com/Vinithvk98/Analysis-of-Audit-System-Instance-Logs/blob/main/Dashboard_Images/Img_1.jpeg" alt="Description of the image">
