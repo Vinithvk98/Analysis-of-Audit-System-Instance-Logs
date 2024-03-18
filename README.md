@@ -7,7 +7,7 @@ It underlines the necessity of data-driven decision-making and provides insights
 
 - DATASET LINK : [Link to CSV Data](https://www.kaggle.com/datasets/shamiulislamshifat/it-incident-log-dataset)
 
-## Visuals of PowerBI Dashboard
+## Snapshots of PowerBI Dashboard
 
 <img src="https://github.com/Vinithvk98/Analysis-of-Audit-System-Instance-Logs/blob/main/Dashboard_Images/Img_1.jpeg" alt="First Page">
 <img src="https://github.com/Vinithvk98/Analysis-of-Audit-System-Instance-Logs/blob/main/Dashboard_Images/Img_2.jpeg" alt="Second Page">
